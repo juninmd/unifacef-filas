@@ -62,3 +62,8 @@ Para muitas aplicações distribuídas, cada mensagem pode ficar sozinha e, se t
 Preservar a ordem de mensagens
 
 Você pode colocar as informações de seqüência em cada mensagem para que possa reordenar as mensagens quando elas são recuperadas da fila.
+----
+
+<https://www.youtube.com/watch?v=mXk0MNjlO7A>
+Diferença entre SNS e SQS,
+o SNS serve para notificar vários consumidores ao mesmo tempo, podendo ser um dos consumidores um SQS por exemplo, pois o SNS faz um esquema de push, já o SQS para conseguirmos acessar fazemos pull.

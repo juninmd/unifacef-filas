@@ -67,3 +67,5 @@ Você pode colocar as informações de seqüência em cada mensagem para que pos
 <https://www.youtube.com/watch?v=mXk0MNjlO7A>
 Diferença entre SNS e SQS,
 o SNS serve para notificar vários consumidores ao mesmo tempo, podendo ser um dos consumidores um SQS por exemplo, pois o SNS faz um esquema de push, já o SQS para conseguirmos acessar fazemos pull.
+----
+https://www.youtube.com/watch?v=LX19wk2B5Ak

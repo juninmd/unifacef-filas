@@ -69,3 +69,15 @@ Diferença entre SNS e SQS,
 o SNS serve para notificar vários consumidores ao mesmo tempo, podendo ser um dos consumidores um SQS por exemplo, pois o SNS faz um esquema de push, já o SQS para conseguirmos acessar fazemos pull.
 ----
 https://www.youtube.com/watch?v=LX19wk2B5Ak
+
+https://github.com/rocketseat-content/youtube-challenge-node-kafka/blob/master/api/src/server.js
+
+https://www.youtube.com/watch?v=GOISMrNzYwQ&list=WL&index=12&t=852s
+
+https://www.youtube.com/watch?v=EiDLKECLcZw&list=WL&index=8
+
+https://github.com/kriscfoster/node-kafka-producer-consumer
+
+https://www.npmjs.com/package/kafkajs#usage
+
+https://github.com/tulios/kafkajs

@@ -29,3 +29,20 @@ Desenahando a aplicação
 - <https://app.diagrams.net/#G1WdhUMQIOzgTOYi27Qi4iM0g0yaj59XCA>
 - <https://mailtrap.io/>
 - <https://higher-order-programmer.medium.com/node-js-utilizando-filas-de-tarefas-ass%C3%ADncronas-com-bull-redis-71540f4be6ec>
+
+```
+Para usuários do DBeaver:
+
+Clique com o botão direito na sua conexão, escolha "Editar Conexão"
+
+Na tela "Configurações de conexão" (tela principal), clique em "Editar configurações do driver"
+
+Clique em "Propriedades da conexão"
+
+Clique com o botão direito na área "propriedades do usuário" e escolha "Adicionar nova propriedade"
+
+Adicione duas propriedades: "useSSL" e "allowPublicKeyRetrieval"
+
+Defina seus valores como "false" e "true" clicando duas vezes na coluna "value"
+
+```

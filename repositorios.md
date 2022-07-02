@@ -2,7 +2,7 @@
 
 * [Alessandro Rodrigues da Silva](https://github.com/alessandrorsilva/unifacef-react-typescript) 
 * [Andre Luiz Gonçalves Silva](https://github.com/andrebetta123/unifacef-react-typescript) 
-* [Anilton Francisco de Morais Junior](https://github.com/AniltonMoraisJr/aulaReactJS) 
+* [Anilton Francisco de Morais Junior](https://github.com/AniltonMoraisJr/node-bull-reproducer)(https://github.com/AniltonMoraisJr/node-bull-consumer) 
 * [Bruna Késsia Gonçalves](https://github.com/brugoncalves/unifacef-react-typescript) 
 * [David Stefani Prado](https://github.com/DavidPrado/posaulareact) 
 * [Edmar Antonio da Costa Junior]() 

@@ -7,7 +7,7 @@
 * [David Stefani Prado](https://github.com/DavidPrado/posaulareact) 
 * [Edmar Antonio da Costa Junior]() 
 * [Hyan Kelwin Souza Campos](https://github.com/hyankelwin/reactjs-typescript-unifacef) 
-* [João Marcos Rodrigues Stefani](https://github.com/JoaoStefani/unifacef-react-typescript) 
+* [João Marcos Rodrigues Stefani](https://github.com/JoaoStefani/Mensagerias-unifacef) 
 * [Joyce Ribeiro](https://github.com/riberjoy/unifacef-react-typescript/tree/master) 
 * [Leonardo Carloni Rodrigues Meira](https://github.com/LeoCarloni/unifacef-react-typescript) 
 * [Leonardo de Carvalho Neves](https://github.com/neves-c-leonardo/projeto-react-unifacef/tree/master) 

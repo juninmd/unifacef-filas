@@ -10,7 +10,7 @@
 * [João Marcos Rodrigues Stefani](https://github.com/JoaoStefani/unifacef-react-typescript) 
 * [Joyce Ribeiro](https://github.com/riberjoy/unifacef-react-typescript/tree/master) 
 * [Leonardo Carloni Rodrigues Meira](https://github.com/LeoCarloni/unifacef-react-typescript) 
-* [Leonardo de Carvalho Neves](https://github.com/neves-c-leonardo/projeto-react-unifacef/tree/master) 
+* Leonardo de Carvalho Neves - [consumer](https://github.com/neves-c-leonardo/node-consumer) - [producer](https://github.com/neves-c-leonardo/node-producer) 
 * [Lucas Ferreira Galvão](https://github.com/lucasferreiragalvao/projeto-reactjs-typescript-unifacef) 
 * [Lucas Lauro Costa](https://github.com/LucasLauro96/react-facef) 
 * [Odair Pedroso Junior](https://github.com/odair-pedroso/react-unifacef) 

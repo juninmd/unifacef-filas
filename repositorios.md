@@ -1,6 +1,6 @@
 # Repositórios
 
-* [Alessandro Rodrigues da Silva](https://github.com/alessandrorsilva/unifacef-react-typescript) 
+* Alessandro Rodrigues da Silva - [Consumer](https://github.com/alessandrorsilva/node-bull-consumer) - [Producer](https://github.com/alessandrorsilva/node-bull-producer)
 * [Andre Luiz Gonçalves Silva](https://github.com/andrebetta123/unifacef-react-typescript) 
 * [Anilton Francisco de Morais Junior](https://github.com/AniltonMoraisJr/aulaReactJS) 
 * [Bruna Késsia Gonçalves](https://github.com/brugoncalves/unifacef-react-typescript) 

@@ -10,7 +10,7 @@
 * Hyan Kelwin Souza Campos - [consumer](https://github.com/hyankelwin/node-consumer) - [producer](https://github.com/hyankelwin/node-producer) 
 * [João Marcos Rodrigues Stefani](https://github.com/JoaoStefani/unifacef-react-typescript) 
 * [Joyce Ribeiro](https://github.com/riberjoy/unifacef-react-typescript/tree/master) 
-* [Leonardo Carloni Rodrigues Meira](https://github.com/LeoCarloni/unifacef-react-typescript) 
+* [Leonardo Carloni Rodrigues Meira](https://github.com/LeoCarloni/node-bull) 
 * [Leonardo de Carvalho Neves](https://github.com/neves-c-leonardo/projeto-react-unifacef/tree/master) 
 * [Lucas Ferreira Galvão][Consumer](https://github.com/lucasferreiragalvao/node-bull-consumer) - [Producer](https://github.com/lucasferreiragalvao/node-bull-producer)
 * [Lucas Lauro Costa](https://github.com/LucasLauro96/react-facef) 

@@ -7,7 +7,7 @@
 * [Bruna Késsia Gonçalves - Consumer](https://github.com/brugoncalves/node-bull-consumer) 
 * [David Stefani Prado](https://github.com/DavidPrado/posaulareact) 
 * [Edmar Antonio da Costa Junior]() 
-* [Hyan Kelwin Souza Campos](https://github.com/hyankelwin/reactjs-typescript-unifacef) 
+* Hyan Kelwin Souza Campos - [consumer](https://github.com/hyankelwin/node-consumer) - [producer](https://github.com/hyankelwin/node-producer) 
 * [João Marcos Rodrigues Stefani](https://github.com/JoaoStefani/unifacef-react-typescript) 
 * [Joyce Ribeiro](https://github.com/riberjoy/unifacef-react-typescript/tree/master) 
 * [Leonardo Carloni Rodrigues Meira](https://github.com/LeoCarloni/unifacef-react-typescript) 

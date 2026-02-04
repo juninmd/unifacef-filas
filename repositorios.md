@@ -19,4 +19,5 @@
 * [Reinaldo de Paula Silveira](https://github.com/rpsilveira/projeto-react-unifacef) 
 * [Thaísa Honorio Morandini](https://github.com/thaisamorandini89/unifacefreactapp) 
 * [Thiago Henrique de Matos](https://github.com/ThiagoHMatos)
-* [Vinicius Manso Carrijo](https://github.com/ViniciusCarrijo/react-facef) 
+* [Vinicius Manso Carrijo - Producer](https://github.com/ViniciusCarrijo/node-base-producer)
+* [Vinicius Manso Carrijo - Consumer](https://github.com/ViniciusCarrijo/node-base-consumer)
